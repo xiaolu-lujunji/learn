@@ -10,5 +10,49 @@
   {
     "title": "Secure JavaScript URL validation",
     "url": "https://snyk.io/blog/secure-javascript-url-validation/"
+  },
+  {
+    "title": "K-means clustering",
+    "url": "https://www.30secondsofcode.org/js/s/k-means"
+  },
+  {
+    "title": "Create a static file server with Node.js",
+    "url": "https://www.30secondsofcode.org/articles/s/nodejs-static-file-server"
+  },
+  {
+    "title": "Vite 4.0 is out!",
+    "url": "https://vitejs.dev/blog/announcing-vite4.html"
+  },
+  {
+    "title": "谈谈过度设计：因噎废食的陷阱",
+    "url": "https://zhuanlan.zhihu.com/p/587362654"
+  },
+  {
+    "title": "基于NodeJS从零构建线上自动化打包工作流",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzU2Mzk1NzkwOA==&mid=2247494837&idx=1&sn=9cab5ce04e4efc9d9d06d7b7985fb7c2&scene=21#wechat_redirect"
+  },
+  {
+    "title": "React Native工程Monorepo改造实践",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg3NzcwNQ==&mid=2247487485&idx=1&sn=d6a10251110506665e1bbedbd8ba6ecb&scene=21#wechat_redirect"
+  },
+  {
+    "title": "What developers need to know about Chrome's Memory and Energy Saver modes",
+    "url": "https://developer.chrome.com/blog/memory-and-energy-saver-mode/"
+  },
+  {
+    "title": "First Principles for Software Engineers",
+    "url": "https://addyosmani.com/blog/first-principles-thinking-software-engineers/"
+  },
+  {
+    "title": "webRTC 实现人脸识别",
+    "url": "https://juejin.cn/post/7176218904023433276"
+  },
+  {
+    "title": "JavaScript 最佳实践：如何写出更可靠、更高性能的代码",
+    "url": "https://juejin.cn/post/7175689778090901561"
+  },
+  {
+    "title": "梳理 Web Worker 及实战场景",
+    "url": "https://juejin.cn/post/7176788060619669565"
   }
 ]
